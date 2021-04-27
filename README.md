@@ -142,6 +142,8 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Publish your Flutter App on Windows - The Easy Way](https://blog.imjulian.com/how-to-publish-your-flutter-app-on-windows-the-easy-way)
+- [Install Valet Linux on Ubuntu from scratch](https://blog.imjulian.com/install-valet-linux-on-ubuntu-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
