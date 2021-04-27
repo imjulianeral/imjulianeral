@@ -1,14 +1,14 @@
 <!-- ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg) -->
 
-<!-- Followers Counter -->
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/imjulianeral/count.svg" />  
-</p>
-
 <!-- Welcome Message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <h3>Glad to see you here! 🤗</h3>
+
+<!-- Followers Counter -->
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/imjulianeral/count.svg" />  
+</p>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>  
@@ -18,7 +18,7 @@
     <img align="center" src="assets/twitter.svg" alt="imjulianeral" height="30" width="30" />
   </a>  
   <a href="https://linkedin.com/in/jorge-julián-acero-lomelí-2b9494176/" target="blank">
-    <img align="center" src="assets/linkedin.svg" alt="kmhmubin" height="30" width="30" />
+    <img align="center" src="assets/linkedin.svg" alt="imjulian" height="30" width="30" />
   </a>
   <a href="https://hashnode.com/@imjulian" target="blank">
     <img align="center" src="assets/hashnode.png" alt="imjulian" height="30" width="30" />
