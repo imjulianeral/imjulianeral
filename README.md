@@ -192,18 +192,18 @@
       <a href="https://github.com/rescurib">Rodolfo E. Escobar U.</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/AngelNav">  
-        <img src="https://avatars2.githubusercontent.com/u/52288023" width="100px;" alt="AngelNav"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/AngelNav">Ángel Hernández</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/crismatters">  
         <img src="https://avatars2.githubusercontent.com/u/35973270" width="100px;" alt="crismatters"/>  
       </a>  
       <br />  
       <a href="https://github.com/crismatters">Cristóbal Díaz</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/AngelNav">  
+        <img src="https://avatars2.githubusercontent.com/u/52288023" width="100px;" alt="AngelNav"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/AngelNav">Ángel Hernández</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/EsterUscanga">  
