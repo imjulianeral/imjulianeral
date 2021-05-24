@@ -178,6 +178,13 @@
       <a href="https://github.com/mxarc">Alfonso Reyes</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/israteneda">  
+        <img src="https://avatars2.githubusercontent.com/u/20668624" width="100px;" alt="israteneda"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/israteneda">Israel Teneda</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/danvergara">  
         <img src="https://avatars2.githubusercontent.com/u/12239167" width="100px;" alt="danvergara"/>  
       </a>  
@@ -205,6 +212,8 @@
       <br />  
       <a href="https://github.com/AngelNav">Ángel Hernández</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/EsterUscanga">  
         <img src="https://avatars2.githubusercontent.com/u/14984859" width="100px;" alt="EsterUscanga"/>  
@@ -212,8 +221,6 @@
       <br />  
       <a href="https://github.com/EsterUscanga">Ester Uscanga Olea</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/maualkla">  
         <img src="https://avatars2.githubusercontent.com/u/37346513" width="100px;" alt="maualkla"/>  
