@@ -178,18 +178,18 @@
       <a href="https://github.com/mxarc">Alfonso Reyes</a>  
     </td>  
     <td align="center">  
-      <a href="https://github.com/danvergara">  
-        <img src="https://avatars2.githubusercontent.com/u/12239167" width="100px;" alt="danvergara"/>  
-      </a>  
-      <br />  
-      <a href="https://github.com/danvergara">Daniel Omar Vergara Pérez</a>  
-    </td>  
-    <td align="center">  
       <a href="https://github.com/israteneda">  
         <img src="https://avatars2.githubusercontent.com/u/20668624" width="100px;" alt="israteneda"/>  
       </a>  
       <br />  
       <a href="https://github.com/israteneda">Israel Teneda</a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/danvergara">  
+        <img src="https://avatars2.githubusercontent.com/u/12239167" width="100px;" alt="danvergara"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/danvergara">Daniel Omar Vergara Pérez</a>  
     </td>  
     <td align="center">  
       <a href="https://github.com/rescurib">  
