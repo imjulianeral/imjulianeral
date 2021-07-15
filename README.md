@@ -192,6 +192,13 @@
       <a href="https://github.com/danvergara">Daniel Omar Vergara Pérez</a>  
     </td>  
     <td align="center">  
+      <a href="https://github.com/ImJoseHidalgo">  
+        <img src="https://avatars2.githubusercontent.com/u/40344226" width="100px;" alt="ImJoseHidalgo"/>  
+      </a>  
+      <br />  
+      <a href="https://github.com/ImJoseHidalgo">José Hidalgo</a>  
+    </td>  
+    <td align="center">  
       <a href="https://github.com/rescurib">  
         <img src="https://avatars2.githubusercontent.com/u/23287984" width="100px;" alt="rescurib"/>  
       </a>  
@@ -205,6 +212,8 @@
       <br />  
       <a href="https://github.com/crismatters">Cristóbal Díaz</a>  
     </td>  
+  </tr>
+  <tr>
     <td align="center">  
       <a href="https://github.com/AngelNav">  
         <img src="https://avatars2.githubusercontent.com/u/52288023" width="100px;" alt="AngelNav"/>  
@@ -212,8 +221,6 @@
       <br />  
       <a href="https://github.com/AngelNav">Ángel Hernández</a>  
     </td>  
-  </tr>
-  <tr>
     <td align="center">  
       <a href="https://github.com/EsterUscanga">  
         <img src="https://avatars2.githubusercontent.com/u/14984859" width="100px;" alt="EsterUscanga"/>  
