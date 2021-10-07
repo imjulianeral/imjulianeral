@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://app.daily.dev/imjulian">
-  <img src="https://api.daily.dev/devcards/2302854927af4d8ca697edb52971fb6c.png?r=4q7" width="400" alt="Jorge Julián Acero Lomelí's Dev Card"/>
+  <img src="devcard.svg" width="400" alt="Jorge Julián Acero Lomelí's Dev Card"/>
 </a>
 
 <!-- Connect with me -->
