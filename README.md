@@ -122,11 +122,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RBAC &amp; Private Routes in Next.js with Clerk using NextShield.](https://blog.imjulian.com/nextshield-clerk)
-- [RBAC &amp; Private Routes in Next.js with Supabase using NextShield.](https://blog.imjulian.com/nextshield-supabase)
-- [RBAC &amp; Private Routes in Next.js using NextShield](https://blog.imjulian.com/rbac-and-private-routes-in-nextjs)
-- [Create Email Templates with Pure React](https://blog.imjulian.com/create-email-templates-with-react)
-- [How to Publish your Flutter App on Windows - The Easy Way](https://blog.imjulian.com/how-to-publish-your-flutter-app-on-windows-the-easy-way)
+- [RBAC &amp; Private Routes in Next.js with Clerk using NextShield.](https://imjulian.hashnode.dev/nextshield-clerk)
+- [RBAC &amp; Private Routes in Next.js with Supabase using NextShield.](https://imjulian.hashnode.dev/nextshield-supabase)
+- [RBAC &amp; Private Routes in Next.js using NextShield](https://imjulian.hashnode.dev/rbac-and-private-routes-in-nextjs)
+- [Create Email Templates with Pure React](https://imjulian.hashnode.dev/create-email-templates-with-react)
+- [How to Publish your Flutter App on Windows - The Easy Way](https://imjulian.hashnode.dev/how-to-publish-your-flutter-app-on-windows-the-easy-way)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- GitHub stats -->
